@@ -38,8 +38,9 @@ A hands-on tutorial project around AstronClaw and related agent workflows, helpi
 
 ## Explore The Ecosystem
 
-- 🌐 Project landscape: [awesome-astron-workflow.dev/landscape](https://awesome-astron-workflow.dev/landscape)
+- 🌐 Project landscape: [Astron Landscape](https://opensource.iflytek.com/landscape)
 - 💻 Contribute to projects: [github.com/topics/iflytek-astron](https://github.com/topics/iflytek-astron)
+- 🌐 Official Website：[opensource.iflytek.com](https://opensource.iflytek.com)
 
 The landscape brings together a broader ecosystem view across workflow platforms, automation suites, skill systems, engines, clients, and community projects.
 
