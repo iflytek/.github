@@ -38,7 +38,7 @@ A hands-on tutorial project around AstronClaw and related agent workflows, helpi
 
 ## Explore The Ecosystem
 
-- 🌐 Project landscape: [Astron Landscape](https://opensource.iflytek.com/landscape)
+- 🌐 Project landscape: [Astron Landscape](https://opensource.iflytek.com/milestone)
 - 💻 Contribute to projects: [github.com/topics/iflytek-astron](https://github.com/topics/iflytek-astron)
 - 🌐 Official Website：[opensource.iflytek.com](https://opensource.iflytek.com)
 
@@ -55,6 +55,6 @@ Level up by contributing through:
 
 Every contribution helps strengthen the open-source ecosystem, and community participation can earn points and rewards.
 
-- 🎁 Community points mall: [awesome-astron-workflow.dev/stats](https://awesome-astron-workflow.dev/stats)
+- 🎁 Community points mall: [iflytek contribute](https://opensource.iflytek.com/contribute)
 
 Welcome to explore, build, contribute to, and co-create the AI Agent open-source ecosystem with us.
