@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub organization of iFLYTEK Open Source.
 
+[![OSPO Landscape](https://img.shields.io/badge/OSPO%20Landscape-5699C6)](https://landscape.todogroup.org/?item=ospo-adopter--ospo-adоpter--iflytek-adopter)
+
 We open up practical AI infrastructure, developer tooling, and real-world engineering practices to the global developer community, helping build an open-source ecosystem that is useful, scalable, and production-ready.
 
 Among them, **Astron** is iFLYTEK's enterprise-grade AI Agent open-source project matrix, designed to support the key capabilities required to build and scale **SuperAgents**, including:
